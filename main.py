@@ -1,1 +1,2 @@
-print("hello world")
+import matplotlib.pyplot as plt
+
